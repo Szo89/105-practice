@@ -1,0 +1,68 @@
+body{
+    background-color:snow;
+    margin: 50px 150px 50px 150px;
+}
+
+h1, h3, h4{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    padding: 5px;
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;
+    padding: 5px;
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    text-transform: lowercase;
+    color: #2b89a4;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+
+.susana-advice h1{
+    text-align: center;
+}
+
+span{
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    color: #2b89a4;
+}
+
+h3{
+    text-transform: uppercase;
+}
+
+.steps{
+    background-color:#6a6b6c;
+    text-align: center;
+    padding: 20px;
+}
+
+.steps h3{
+    color: #86bbca;
+    text-transform: uppercase;
+}
+
+.steps h4{
+    color: #86bbca;
+    text-transform: uppercase;
+}
+
+.steps p{
+    text-align: center;
+    padding: 0 100px;
+    color: snow;
+}
+
+.footer{
+    text-align: center;
+}
+
+.footer span{
+    font-size: 30px;
+}
